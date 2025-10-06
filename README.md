@@ -20,8 +20,5 @@ Example result
 **Creative translation (AI):**
 *"La noche murmuraba confidencias que solo la luna sabía proteger."*  
 
-Results
-Examples of generated translations are included in the `/results` folder.
-
 Author
 Project created by **[Andrea Ezquerro]**, as part of my AI and Data Science portfolio
